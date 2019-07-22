@@ -1,0 +1,9 @@
+com\springboot\cobranca\controller\TituloController.class
+com\springboot\cobranca\model\StatusTitulo.class
+com\springboot\cobranca\CobrancaApplication$MvcConfig.class
+com\springboot\cobranca\model\Titulo.class
+com\springboot\cobranca\service\CadastroTituloService.class
+com\springboot\cobranca\repository\filter\TituloFilter.class
+com\springboot\cobranca\repository\Titulos.class
+com\springboot\cobranca\ServletInitializer.class
+com\springboot\cobranca\CobrancaApplication.class
